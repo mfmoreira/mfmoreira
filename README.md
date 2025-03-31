@@ -16,13 +16,12 @@
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Kotlin](https://img.shields.io/badge/-React-333333?style=flat&logo=kotlin)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Oracle](https://img.shields.io/badge/-oracle-333333?style=flat&logo=oracle)
-  ![sqlserver](https://img.shields.io/badge/-sqlserver-333333?style=flat&logo=sqlserver)
+  ![postgresql](https://img.shields.io/badge/-sqlserver-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
