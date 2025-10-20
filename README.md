@@ -7,7 +7,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; 🇧🇷 Desenvolvendo soluções de software | 🇺🇸 Developing software solutions
-- 👩‍💻 &nbsp; 🇧🇷 Codando no iFood | 🇺🇸 Programming at Itaú Unibanco
+- 👩‍💻 &nbsp; 🇧🇷 Codando no iFood | 🇺🇸 Programming at iFood
 
 
 ### 🛠 &nbsp;Tech Stack
